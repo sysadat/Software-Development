@@ -1,0 +1,3 @@
+<course SUBJ="ABC" CRSE="114" SEC="2">
+    <student SEAT="1" SID="900667130" SURNAME="Stein" PREFNAME="Ava" LEVEL="UG" UNITS="2" CLASS="FR" MAJOR="DEF2" GRADE="I" STATUS="RE" EMAIL="ava.s.stein@fakeu.edu"/>
+</course>
