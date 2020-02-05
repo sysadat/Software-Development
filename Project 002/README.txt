@@ -1,6 +1,3 @@
-Sadat	Yoseph	914290757	sysadat@ucdavis.edu
-Au	Chun Bong	915013373	cau@ucdavis.edu
-
 https://piazza.com/class/jtvqbembvv41go?cid=1
 
 Help for iterators
